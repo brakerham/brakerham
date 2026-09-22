@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm brakerham 👋
 
-<!--
-**brakerham/brakerham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student.
 
-Here are some ideas to get you started:
+Currently learning and building around:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI Agents
+- Python
+- Backend engineering
+- Systems
+- MCP
+
+## Projects
+
+- None
+
+## Contact
+
+If you're from China, QQ is the easiest way to reach me.  
+Otherwise, feel free to contact me by Gmail.
+
+- QQ: 2652950344
+- Gmail: brakerham@gmail.com
